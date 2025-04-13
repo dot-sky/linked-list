@@ -32,7 +32,7 @@ export class LinkedList {
     this.head = newNode;
   }
 
-  head() {
+  getHead() {
     return this.head;
   }
 
